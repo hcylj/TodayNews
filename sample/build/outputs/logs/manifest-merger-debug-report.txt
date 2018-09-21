@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml:2:1-71:12
+MERGED from [:pullToRefreshListFragment] G:\TodayNews\pullToRefreshListFragment\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:pullToRefreshViewPager] G:\TodayNews\pullToRefreshViewPager\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:library] G:\TodayNews\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e3fdb9919f89de30eca65016f8501a60\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\088a05f458bf2da3e69e6d828d3b104a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d9791c969bf8f08d879e7db2711e01e9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f101af18baf4db735da06090424b2c6f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\509e667fe210c0691a953a56081373d5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\cdea0fc7730e4882d985a90e48ad0985\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\476d9ec1fb35c16cee9bc00f702831d6\AndroidManifest.xml:17:1-30:12
+INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml:2:1-71:12
+	package
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml
+		INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml
+		INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml
+		INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [:pullToRefreshListFragment] G:\TodayNews\pullToRefreshListFragment\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [:pullToRefreshListFragment] G:\TodayNews\pullToRefreshListFragment\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [:pullToRefreshViewPager] G:\TodayNews\pullToRefreshViewPager\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [:pullToRefreshViewPager] G:\TodayNews\pullToRefreshViewPager\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [:library] G:\TodayNews\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [:library] G:\TodayNews\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e3fdb9919f89de30eca65016f8501a60\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e3fdb9919f89de30eca65016f8501a60\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\088a05f458bf2da3e69e6d828d3b104a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\088a05f458bf2da3e69e6d828d3b104a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d9791c969bf8f08d879e7db2711e01e9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d9791c969bf8f08d879e7db2711e01e9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f101af18baf4db735da06090424b2c6f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f101af18baf4db735da06090424b2c6f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\509e667fe210c0691a953a56081373d5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\509e667fe210c0691a953a56081373d5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\cdea0fc7730e4882d985a90e48ad0985\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\cdea0fc7730e4882d985a90e48ad0985\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\476d9ec1fb35c16cee9bc00f702831d6\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\476d9ec1fb35c16cee9bc00f702831d6\AndroidManifest.xml:20:5-22:41
+INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e3fdb9919f89de30eca65016f8501a60\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml
+		INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml
+		INJECTED from G:\TodayNews\sample\src\main\AndroidManifest.xml
+application
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:11:5-64:19
+MERGED from [:pullToRefreshListFragment] G:\TodayNews\pullToRefreshListFragment\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:pullToRefreshListFragment] G:\TodayNews\pullToRefreshListFragment\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:pullToRefreshViewPager] G:\TodayNews\pullToRefreshViewPager\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:pullToRefreshViewPager] G:\TodayNews\pullToRefreshViewPager\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:library] G:\TodayNews\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:library] G:\TodayNews\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e3fdb9919f89de30eca65016f8501a60\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e3fdb9919f89de30eca65016f8501a60\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\088a05f458bf2da3e69e6d828d3b104a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\088a05f458bf2da3e69e6d828d3b104a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d9791c969bf8f08d879e7db2711e01e9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d9791c969bf8f08d879e7db2711e01e9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f101af18baf4db735da06090424b2c6f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f101af18baf4db735da06090424b2c6f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\509e667fe210c0691a953a56081373d5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\509e667fe210c0691a953a56081373d5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\cdea0fc7730e4882d985a90e48ad0985\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\cdea0fc7730e4882d985a90e48ad0985\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\476d9ec1fb35c16cee9bc00f702831d6\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\476d9ec1fb35c16cee9bc00f702831d6\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:14:9-41
+	android:hardwareAccelerated
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:12:9-43
+	android:icon
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:13:9-38
+activity#com.handmark.pulltorefresh.samples.LauncherActivity
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:17:13-50
+	android:name
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:16:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:21:27-74
+activity#com.handmark.pulltorefresh.samples.PullToRefreshListActivity
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:24:9-27:20
+	android:label
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:26:13-41
+	android:name
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:25:13-54
+activity#com.handmark.pulltorefresh.samples.PullToRefreshListFragmentActivity
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:30:13-50
+	android:name
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:29:13-62
+activity#com.handmark.pulltorefresh.samples.PullToRefreshListInViewPagerActivity
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:34:13-54
+	android:name
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:33:13-65
+activity#com.handmark.pulltorefresh.samples.PullToRefreshGridActivity
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:38:13-41
+	android:name
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:37:13-54
+activity#com.handmark.pulltorefresh.samples.PullToRefreshExpandableListActivity
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:42:13-51
+	android:name
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:41:13-64
+activity#com.handmark.pulltorefresh.samples.PullToRefreshWebViewActivity
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:46:13-40
+	android:name
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:45:13-57
+activity#com.handmark.pulltorefresh.samples.PullToRefreshScrollViewActivity
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:50:13-43
+	android:name
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:49:13-60
+activity#com.handmark.pulltorefresh.samples.PullToRefreshHorizontalScrollViewActivity
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:54:13-53
+	android:name
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:53:13-70
+activity#com.handmark.pulltorefresh.samples.PullToRefreshViewPagerActivity
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:58:13-42
+	android:name
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:57:13-59
+activity#com.handmark.pulltorefresh.samples.PullToRefreshWebView2Activity
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:60:9-63:20
+	android:label
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:62:13-49
+	android:name
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:61:13-58
+uses-permission#android.permission.INTERNET
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:67:5-67
+	android:name
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:67:22-64
+supports-screens
+ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:69:5-51
+	android:anyDensity
+		ADDED from G:\TodayNews\sample\src\main\AndroidManifest.xml:69:23-48
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e3fdb9919f89de30eca65016f8501a60\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\088a05f458bf2da3e69e6d828d3b104a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\088a05f458bf2da3e69e6d828d3b104a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d9791c969bf8f08d879e7db2711e01e9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d9791c969bf8f08d879e7db2711e01e9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f101af18baf4db735da06090424b2c6f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f101af18baf4db735da06090424b2c6f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\509e667fe210c0691a953a56081373d5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\509e667fe210c0691a953a56081373d5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\cdea0fc7730e4882d985a90e48ad0985\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\cdea0fc7730e4882d985a90e48ad0985\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e3fdb9919f89de30eca65016f8501a60\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e3fdb9919f89de30eca65016f8501a60\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\476d9ec1fb35c16cee9bc00f702831d6\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\476d9ec1fb35c16cee9bc00f702831d6\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lou\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\476d9ec1fb35c16cee9bc00f702831d6\AndroidManifest.xml:26:13-58

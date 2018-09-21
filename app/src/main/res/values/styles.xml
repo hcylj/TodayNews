@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/stateBarColor</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:windowContentTransitions" tools:targetApi="lollipop">true</item>
+        <!--是否覆盖执行，其实可以理解成是否同步执行还是顺序执行-->
+        <item name="android:windowAllowEnterTransitionOverlap" tools:targetApi="lollipop">false</item>
+        <item name="android:windowAllowReturnTransitionOverlap" tools:targetApi="lollipop">false</item>
+
+    </style>
+    <style name = "NoStateBarTheme" parent="AppTheme">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name = "RadioButtonStyle" >
+        <item name="android:gravity">center</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+        <item name= "android:textColor">@color/selector_radiobutton_text_color</item>
+    </style>
+
+</resources>

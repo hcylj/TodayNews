@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.itheima.request.MainActivity">
+
+<Button
+    android:id="@+id/btn_get"
+    android:text="发送get请求"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn_post"
+        android:text="发送post请求"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn_post_map"
+        android:text="发送post请求多键值对"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn_post_json"
+        android:text="发送post上传json"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn_post_file"
+        android:text="发送post请求上传文件"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn_post_files"
+        android:text="发送post请求上传多个文件"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

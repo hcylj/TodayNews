@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.itheima.todaynews.activity.MainActivity">
+
+
+    <FrameLayout
+        android:id="@+id/fl_container"
+        android:background="#eee"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+    </FrameLayout>
+    <RadioGroup
+        android:id="@+id/rg_group"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:id="@+id/rb_home"
+            android:drawableTop="@drawable/selector_home"
+            android:text="首页"
+            style="@style/RadioButtonStyle"/>
+        <RadioButton
+            style="@style/RadioButtonStyle"
+            android:id="@+id/rb_video"
+            android:drawableTop="@drawable/selector_video"
+            android:text="西瓜视频" />
+        <Button
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/btn_asq"
+            android:background="@mipmap/asq"/>
+        <RadioButton
+            style="@style/RadioButtonStyle"
+            android:id="@+id/rb_pic"
+            android:drawableTop="@drawable/selector_talk"
+            android:text="微头条" />
+        <RadioButton
+            android:id="@+id/rb_user"
+            style="@style/RadioButtonStyle"
+            android:drawableTop="@drawable/selector_user"
+            android:text="我的" />
+    </RadioGroup>
+
+</LinearLayout>
